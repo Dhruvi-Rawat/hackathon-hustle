@@ -10,8 +10,8 @@ A full-stack recommendation system that maps user skills to suitable career path
 - Implements full-stack architecture with clean data handling
 
 **Technologies Used:**  
-- Front-end: HTML, CSS, JavaScript  
-- Back-end: Python, Flask / Node.js (mention what you used)  
+- Front-end: NEXT.JS, TAILWIND CSS
+- Back-end: REACT  
 - AI Integration: API-based answer generation  
 - Data handling: Pandas / JSON
 
